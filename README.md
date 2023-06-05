@@ -1,4 +1,4 @@
-# <Web Development Bootcamp Study Guide>
+# Web Development Bootcamp Study Guide
 
 ## Description
 
