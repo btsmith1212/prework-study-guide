@@ -1,4 +1,3 @@
-# prework-study-guide
 # <Web Development Bootcamp Study Guide>
 
 ## Description
